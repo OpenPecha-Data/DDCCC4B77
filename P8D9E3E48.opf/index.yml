@@ -1,0 +1,11 @@
+id: deb10af356154c1fbcf8546fdccc50c1
+annotation_type: index
+revision: '00001'
+annotations:
+  b736a58d3d7d4c16a52750921d936ba6:
+    parts: {}
+    span:
+    - vol: 93
+      start: 0
+      end: 22870
+    work_id: D4138
